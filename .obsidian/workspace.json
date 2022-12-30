@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_navbar.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_navbar.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_navbar.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_navbar.md"
+                "file": "README.md"
               }
             }
           },
@@ -271,15 +271,15 @@
   },
   "active": "faf09e37ba5dce28",
   "lastOpenFiles": [
+    "0 README.md",
+    "_navbar.md",
     "_sidebar.md",
     "daily/2022-12-30-Fri-w53.md",
     "10 所长林超：给年轻人的跨学科通识课.md",
     "_coverpage.md",
     "README.md",
-    "0 README.md",
     "21 大脑的工作原理.md",
     "房屋装修.md",
-    "z_daily/2022-12-30-Fri-w53.md",
-    "z_文献笔记/6《纳瓦尔宝典》.md"
+    "z_daily/2022-12-30-Fri-w53.md"
   ]
 }
