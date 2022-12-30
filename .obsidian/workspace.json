@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-12-30-Fri-w53.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-12-30-Fri-w53.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-12-30-Fri-w53.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-12-30-Fri-w53.md"
+                "file": "README.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "2e2a579de0f6c33f",
   "lastOpenFiles": [
-    "README.md",
     "daily/2022-12-30-Fri-w53.md",
+    "README.md",
     "21 大脑的工作原理.md",
     "房屋装修.md",
     "z_daily/2022-12-30-Fri-w53.md",
