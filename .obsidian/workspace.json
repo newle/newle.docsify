@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "daily/2022-12-30-Fri-w53.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "daily/2022-12-30-Fri-w53.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "daily/2022-12-30-Fri-w53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "daily/2022-12-30-Fri-w53.md"
               }
             }
           },
@@ -259,8 +259,8 @@
   },
   "active": "ae9f112ee211c3b2",
   "lastOpenFiles": [
-    "daily/2022-12-30-Fri-w53.md",
     "_sidebar.md",
+    "daily/2022-12-30-Fri-w53.md",
     "README.md",
     "0 README.md",
     "_navbar.md",
