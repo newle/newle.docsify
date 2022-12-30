@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9 test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9 test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9 test.md"
+                "file": "README.md"
               }
             }
           },
@@ -275,17 +275,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c33543c301154e3",
+  "active": "ae9f112ee211c3b2",
   "lastOpenFiles": [
-    "_sidebar.md",
     "0 README.md",
+    "_sidebar.md",
+    "9 test.md",
     "daily/files/Pasted image 20221230224210.png",
     "daily/2022-12-30-Fri-w53.md",
     "README.md",
     "_navbar.md",
     "10 所长林超：给年轻人的跨学科通识课.md",
     "_coverpage.md",
-    "21 大脑的工作原理.md",
-    "房屋装修.md"
+    "21 大脑的工作原理.md"
   ]
 }
