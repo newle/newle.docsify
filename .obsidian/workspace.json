@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "97cfcbb0e7ebda1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd7198ce36a98278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d214e192193b2a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d544b5dc758e9946",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e2a579de0f6c33f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "af929a74a505eaca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1734c431b584a166",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e7b9af277459a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "228a346f9f03c79c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68661d0d558015ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4873f8c1a5b4841b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a679fcef86838788",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "right": {
+    "id": "d6f196d28275fe53",
+    "type": "split",
+    "children": [
+      {
+        "id": "105320350c55fd93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ee9a25e562d37ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4dd6ba33a1c7490",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e1971dfdbe51322",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7cc7d0085d3440a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "90fb7c711483221e",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5f360bf2a05f151",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8520cfef09891eb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "2e2a579de0f6c33f",
+  "lastOpenFiles": [
+    "21 大脑的工作原理.md",
+    "房屋装修.md",
+    "z_daily/2022-12-30-Fri-w53.md",
+    "z_文献笔记/6《纳瓦尔宝典》.md",
+    "z_yearly/2022.md",
+    "z_文献笔记/14 The Science of Making - Breaking Habits - Huberman Lab Podcast 53.md",
+    "z_daily/2022-12-28.md",
+    "14a 英语单词.md",
+    "z_文献笔记/10 所长林超：给年轻人的跨学科通识课.md",
+    "z_文献笔记/13 《手把手教你玩脱口秀》.md"
+  ]
+}
