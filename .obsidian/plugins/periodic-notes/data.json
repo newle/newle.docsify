@@ -3,8 +3,8 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
-    "folder": "z_daily",
-    "template": "daily",
+    "folder": "daily",
+    "template": "",
     "enabled": true,
     "format": "YYYY-MM-DD-ddd-[w]ww"
   },
@@ -12,24 +12,24 @@
     "format": "",
     "folder": "z_weekly",
     "template": "weekly",
-    "enabled": true
+    "enabled": false
   },
   "monthly": {
     "format": "YYYY-MMM",
     "template": "monthly",
     "folder": "z_monthly",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "",
     "template": "quarterly",
     "folder": "z_quarterly",
-    "enabled": true
+    "enabled": false
   },
   "yearly": {
     "format": "",
     "template": "yearly",
     "folder": "z_yearly",
-    "enabled": true
+    "enabled": false
   }
 }

@@ -27,8 +27,12 @@
             "id": "2e2a579de0f6c33f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "daily/2022-12-30-Fri-w53.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "daily/2022-12-30-Fri-w53.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "daily/2022-12-30-Fri-w53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "daily/2022-12-30-Fri-w53.md"
+              }
             }
           },
           {
@@ -204,6 +212,7 @@
   },
   "active": "2e2a579de0f6c33f",
   "lastOpenFiles": [
+    "README.md",
     "21 大脑的工作原理.md",
     "房屋装修.md",
     "z_daily/2022-12-30-Fri-w53.md",
@@ -212,7 +221,6 @@
     "z_文献笔记/14 The Science of Making - Breaking Habits - Huberman Lab Podcast 53.md",
     "z_daily/2022-12-28.md",
     "14a 英语单词.md",
-    "z_文献笔记/10 所长林超：给年轻人的跨学科通识课.md",
-    "z_文献笔记/13 《手把手教你玩脱口秀》.md"
+    "z_文献笔记/10 所长林超：给年轻人的跨学科通识课.md"
   ]
 }
